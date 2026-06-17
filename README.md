@@ -1,7 +1,7 @@
 # EX-NO-3-IMPLEMENTATION-OF-HILL-CIPHER
 
-## NAME: ARAVINDAN T
-## REG NO: 2305001003
+## NAME: DAKSHINA MURTHY.V
+## REG NO: 2305001006
  
 ## AIM
 To write a C program to implement the hill cipher substitution techniques.
