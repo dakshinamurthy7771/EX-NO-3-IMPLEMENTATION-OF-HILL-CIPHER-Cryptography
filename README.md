@@ -96,6 +96,7 @@ int main() {
 
 ```
 ## OUTPUT
+<img width="318" height="162" alt="image" src="https://github.com/user-attachments/assets/76b407e0-c695-48c5-a5eb-96a43ba07fc5" />
 
 ## RESULT
 hence the experiment has been executed successfully
